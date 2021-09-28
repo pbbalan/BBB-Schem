@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=Launchpad Header.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Launchpad Header.SchDoc|FileName=LEDs.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Launchpad Header.SchDoc|FileName=Sensor.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Hierarchy.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator= |SchDesignator= |FileName=Sensor.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator= |SchDesignator= |FileName=LEDs.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=LEDs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Hierarchy.SchDoc|Designator= |SchDesignator= |FileName=Launchpad Header.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Launchpad Header.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
