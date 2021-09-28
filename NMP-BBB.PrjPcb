@@ -228,7 +228,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AGRNSJGG
 
 [Document12]
-DocumentPath=BBB-PCB.PcbDoc
+DocumentPath=BBB-PCB3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -242,9 +242,13 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FSGVTIOB
+DocumentUniqueId=OHDCBHAG
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for NMP-BBB\Design Rule Check - BBB-PCB3.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for NMP-BBB\Design Rule Check - BBB-PCB.html
 DItemRevisionGUID=
 
